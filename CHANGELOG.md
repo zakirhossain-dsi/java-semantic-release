@@ -1,5 +1,14 @@
 # Semantic Versioning Changelog
 
+# 1.0.0 (2022-10-09)
+
+
+### Bug Fixes
+
+* changed remote repo in releaserc ([a2f665e](https://github.com/zakirhossain-dsi/java-semantic-release/commit/a2f665ecdb9750a20cafb8f899b80a1f0c768cac))
+* first commit ([1c586c8](https://github.com/zakirhossain-dsi/java-semantic-release/commit/1c586c891f3d65b11b44c2cf1e4c9cae8fa420f1))
+* first commit ([554f44f](https://github.com/zakirhossain-dsi/java-semantic-release/commit/554f44f9543d3c02156a3829bcfc09d176e80c79))
+
 # [1.8.0](https://github.com/embesozzi/java-semantic-release/compare/v1.7.1...v1.8.0) (2020-08-16)
 
 
